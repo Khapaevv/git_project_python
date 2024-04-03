@@ -4,8 +4,6 @@ def summa_1():
     c = a + b
     print(c)
 
-summa_1()
-
 
 def minus():
     a = int(input())
