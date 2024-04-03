@@ -7,6 +7,16 @@ def summa_1():
 summa_1()
 
 
+def minus():
+    a = int(input())
+    b = int(input())
+    c = a - b
+    print(c)
+
+minus()
+
+
+
 
 
 
